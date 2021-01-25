@@ -1,2 +1,3 @@
 # Image-Screen-Admin
-Image-Screen
+
+Thins that the app needs
