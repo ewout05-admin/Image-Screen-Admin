@@ -1,8 +1,14 @@
 {
+	"3": {
+		"By": "Ewout Demeulenaere",
+		"Title": "Biggest bugg!",
+		"Date": "10/02/2021",
+		"Message": "There was an error in the app. \nWe are using a haste / paste bin and it has a cloudflare. \nAnd the bug was: you cannot open the app or see the updates. \nIt gave a fake update with weird text (if you know it was HTML). \nNow, we have made a real update on it. \n\nThanks Image Screen Team!"
+	},
 	"2": {
 		"By": "Ewout Demeulenaere",
 		"Title": "Discord server!",
-		"Date": "1/2/2021",
+		"Date": "01/02/2021",
 		"Message": "We have a discord server! \nDevelopment Questions is the server. \nIf you want to join, here is the discord link!: \n\nhttps://discord.gg/fS2BtfX "
 	},
 	"1": {
