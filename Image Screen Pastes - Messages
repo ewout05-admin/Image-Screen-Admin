@@ -1,3 +1,4 @@
+// Date = Day/Month/Year
 {
 	"3": {
 		"By": "Ewout Demeulenaere",
@@ -8,13 +9,13 @@
 	"2": {
 		"By": "Ewout Demeulenaere",
 		"Title": "Discord server!",
-		"Date": "01/02/2021",
+		"Date": "30/01/2021",
 		"Message": "We have a discord server! \nDevelopment Questions is the server. \nIf you want to join, here is the discord link!: \n\nhttps://discord.gg/fS2BtfX "
 	},
 	"1": {
 		"By": "Ewout Demeulenaere",
 		"Title": "First Message!",
-		"Date": "01/15/2021",
+		"Date": "15/01/2021",
 		"Message": "This is our first message! \nHave fun with our app. \nTake a lot of screens! =D"
 	}
 }
