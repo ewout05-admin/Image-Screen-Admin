@@ -3,7 +3,7 @@
 		"By": "Ewout Demeulenaere",
 		"Title": "Biggest bugg!",
 		"Date": "10/02/2021",
-		"Message": "There was an error in the app. \nWe are using a haste / paste bin and it has a cloudflare. \nAnd the bug was: you cannot open the app or see the updates. \nIt gave a fake update with weird text (if you know it was HTML). \nNow, we have made a real update on it. \n\nThanks Image Screen Team!"
+		"Message": "There was an error in the app. \n\nWe are using a haste/paste-bin and it has a cloudflare. \n\nAnd the bug was: you cannot open the app or see the updates. \n\nIt gave a fake update with weird text \n(if you know it was HTML). \n\nNow, we have made a real update on it. \n\n\nThanks Image Screen Team!"
 	},
 	"2": {
 		"By": "Ewout Demeulenaere",
