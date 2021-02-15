@@ -1,20 +1,26 @@
-{
-	"3": {
-		"By": "Ewout Demeulenaere",
-		"Title": "Biggest bugg!",
-		"Date": "10/02/2021",
-		"Message": "There was an error in the app. \n\nWe are using a haste/paste-bin and it has a cloudflare. \n\nAnd the bug was: you cannot open the app\nor see the updates. \n\nIt gave a fake update with weird text \n(if you know it was HTML). \n\nNow, we have made a real update on it. \n\n\nThanks Image Screen Team!"
-	},
-	"2": {
-		"By": "Ewout Demeulenaere",
-		"Title": "Discord server!",
-		"Date": "30/01/2021",
-		"Message": "We have a discord server! \nDevelopment Questions is the server. \nIf you want to join, here is the discord link!: \n\nhttps://discord.gg/fS2BtfX "
-	},
-	"1": {
-		"By": "Ewout Demeulenaere",
-		"Title": "First Message!",
-		"Date": "15/01/2021",
-		"Message": "This is our first message! \nHave fun with our app. \nTake a lot of screens! =D"
-	}
-}
+```{
+    "4": {
+        "By": "Ewout Demeulenaere",
+        "Title": "My birthday!",
+        "Date": "15/02/2021",
+        "Message": "It's my birthdayy todayyy\n\nEn Romello is noob en Quinten is pro =D"
+    },
+    "3": {
+        "By": "Ewout Demeulenaere",
+        "Title": "Biggest bugg!",
+        "Date": "10/02/2021",
+        "Message": "There was an error in the app. \n\nWe are using a haste/paste-bin and it has a cloudflare. \n\nAnd the bug was: you cannot open the app\nor see the updates. \n\nIt gave a fake update with weird text \n(if you know it was HTML). \n\nNow, we have made a real update on it. \n\n\nThanks Image Screen Team!"
+    },
+    "2": {
+        "By": "Ewout Demeulenaere",
+        "Title": "Discord server!",
+        "Date": "30/01/2021",
+        "Message": "We have a discord server! \nDevelopment Questions is the server. \nIf you want to join, here is the discord link!: \n\nhttps://discord.gg/fS2BtfX "
+    },
+    "1": {
+        "By": "Ewout Demeulenaere",
+        "Title": "First Message!",
+        "Date": "15/01/2021",
+        "Message": "This is our first message! \nHave fun with our app. \nTake a lot of screens! =D"
+    }
+}```
